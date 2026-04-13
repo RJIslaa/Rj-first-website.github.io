@@ -4,6 +4,10 @@
     color: white;
 }
 
+h2 {
+    text-align: center;
+}
+
 .btn-primary:hover,
 .btn-primary:focus {
     background-color: #45a049;
