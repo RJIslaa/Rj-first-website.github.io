@@ -24,6 +24,19 @@
     color: white;
 }
 
+.btn-purple {
+    background-color: #9c27b0;
+    border-color: #9c27b0;
+    color: white;
+}
+
+.btn-purple:hover,
+.btn-purple:focus {
+    background-color: #7b1fa2;
+    border-color: #7b1fa2;
+    color: white;
+}
+
 .game-cell {
     display: flex;
     align-items: center;
